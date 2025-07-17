@@ -1,0 +1,2 @@
+C:/Users/DIVINE/Desktop/audio-player-and-recorder/android/app/.cxx/RelWithDebInfo/s1vd54w2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/DIVINE/Desktop/audio-player-and-recorder/android/app/.cxx/RelWithDebInfo/s1vd54w2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
